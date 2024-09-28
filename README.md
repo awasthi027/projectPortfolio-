@@ -3,7 +3,7 @@ Here I am creating my project mobile application project portfolio.
 
 ## [Intelligent Hub](https://apps.apple.com/us/app/intelligent-hub/id338761996)
 ## [PIVD-Manager](https://apps.apple.com/us/app/piv-d-manager-workspace-one/id1225667504)
-## [Sprint Derice](https://apps.apple.com/ph/app/sprintdrive/id1568054014)
+## [Sprint Derive](https://apps.apple.com/ph/app/sprintdrive/id1568054014)
 ## [My Audi](https://apps.apple.com/gb/app/myaudi/id440464115)
 ## [MyAudi Connect](https://apps.apple.com/in/app/myaudi-connect-audi-india/id1477017299)
 ## [Sound Tune](https://pps.apple.com/us/app/sound-tune/id1353769881)
