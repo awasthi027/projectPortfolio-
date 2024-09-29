@@ -1,6 +1,7 @@
-# projectPortfolio-
+# Project Portfolio
 Here I am creating my project mobile application project portfolio.
 ### iPhone and iPad Apps ###
+
 ## [Intelligent Hub](https://apps.apple.com/us/app/intelligent-hub/id338761996)
 ## [PIVD-Manager](https://apps.apple.com/us/app/piv-d-manager-workspace-one/id1225667504)
 ## [Content Locker](https://apps.apple.com/us/app/content-workspace-one/id525890839)
@@ -16,3 +17,13 @@ Here I am creating my project mobile application project portfolio.
 ## [Carrefour](https://apps.apple.com/us/app/maf-carrefour-online-shopping/id626805470)
 ## [CBA](https://itunes.apple.com/us/app/clinics-review-ar>cles/id480068107?mt=8)
 ## [Read By QxMD](https://apps.apple.com/us/app/read-by-qxmd/id574041839)
+
+### Mac App ###
+## [Workspace One Hub](https://www.getwsone.com/)
+
+
+### Android App ###
+
+## [Web Browser](https://play.google.com/store/apps/details?id=com.airwatch.browser&hl=en_IN)
+## [Sprint Drive](https://play.google.com/store/apps/details?id=com.logestechs.driver_sprint&hl=en_US)
+## [Read By QxMD](https://play.google.com/store/apps/details?id=com.qxmd.readbyqxmd&hl=en_IN)
