@@ -1,5 +1,5 @@
 # Project Portfolio
-Here I am creating my project mobile application project portfolio.
+
 ### iPhone and iPad Apps ###
 
 ## [Intelligent Hub](https://apps.apple.com/us/app/intelligent-hub/id338761996)
