@@ -6,6 +6,11 @@ A collection of mobile and desktop apps I have worked on across iOS, macOS and A
 ![macOS](https://img.shields.io/badge/macOS-1%20app-555555?logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3%20apps-3DDC84?logo=android&logoColor=white)
 
+## 🌐 Profiles
+
+[![Medium](https://img.shields.io/badge/Medium-@awasthi027.ashish-000000?logo=medium&logoColor=white)](https://medium.com/@awasthi027.ashish)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ashi-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1699483/ashi)
+
 ## 📑 Contents
 
 - [iPhone & iPad Apps](#-iphone--ipad-apps)
